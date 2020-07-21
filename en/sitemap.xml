@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://muqtaderafzal.com/</loc>
+    <lastmod>2020-07-20T20:57:48-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -14,6 +15,41 @@
                 hreflang="en"
                 href="https://muqtaderafzal.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://muqtaderafzal.com/posts/2020/07/coming-soon.../</loc>
+    <lastmod>2020-07-20T20:57:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://muqtaderafzal.com/posts/</loc>
+    <lastmod>2020-07-20T20:57:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://muqtaderafzal.com/tags/</loc>
+    <lastmod>2020-07-20T20:57:48-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://muqtaderafzal.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muqtaderafzal.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://muqtaderafzal.com/tags/untagged/</loc>
+    <lastmod>2020-07-20T20:57:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://muqtaderafzal.com/about/</loc>
+    <lastmod>2020-07-20T20:08:13-04:00</lastmod>
   </url>
   
   <url>
@@ -41,20 +77,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://muqtaderafzal.com/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://muqtaderafzal.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://muqtaderafzal.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://muqtaderafzal.com/tags/"
                 />
   </url>
   
