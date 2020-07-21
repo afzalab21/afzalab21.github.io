@@ -31,20 +31,6 @@
   </url>
   
   <url>
-    <loc>https://muqtaderafzal.com/fr/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://muqtaderafzal.com/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://muqtaderafzal.com/fr/series/"
-                />
-  </url>
-  
-  <url>
     <loc>https://muqtaderafzal.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
